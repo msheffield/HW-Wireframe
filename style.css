@@ -38,12 +38,14 @@ nav {
 section {
     float: left;
     width: 495px;
+    height: 130px;
     margin-bottom: 10px;
 
 }
 
 article {
     margin: 5px;
+    padding-bottom: 10px;
     background-color: grey;
 }
 
@@ -59,7 +61,7 @@ p {
 aside {
     float: right;
     width: 445px;
-    height: 110px;
+    height: 130px;
 }
 
 footer {
